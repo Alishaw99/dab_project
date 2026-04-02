@@ -1,0 +1,8 @@
+[run]
+omit =
+    # any files or globs you want to exclude
+    src/__init__.py
+    src/*/__init__.py
+    src/dab-project/__init__.py
+    src/citibike/__init__.py
+    src/dab-project/main.py 
