@@ -51,7 +51,7 @@ with this project. It's also possible to interact with it directly using the CLI
    $ databricks bundle deploy --target prod
    ```
 
-4. To run a job or pipeline, use the "run" command:
+4. To run a job or pipeline, use the "run" command:.
    ```
    $ databricks bundle run
    ```
