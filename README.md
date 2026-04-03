@@ -54,7 +54,7 @@ with this project. It's also possible to interact with it directly using the CLI
 4. To run a job or pipeline, use the "run" command:.
    ```
    $ databricks bundle run
-   ```
+   ```'
 
 5. Finally, to run tests locally, use `pytest`:
    ```
