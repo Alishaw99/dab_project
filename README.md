@@ -46,7 +46,7 @@ with this project. It's also possible to interact with it directly using the CLI
 
     This deploys everything that's defined for this project.
 
-3. Similarly, to deploy a production copy, type:
+3. Similarly, to deploy a production copy, type:.
    ```
    $ databricks bundle deploy --target prod
    ```
